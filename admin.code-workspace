@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../xampp1/htdocs/foos/admin"
+		},
+		{
+			"path": "../../../../../xampp1/htdocs/foos/components"
+		},
+		{
+			"path": "../../../../../xampp1/htdocs/foos/css"
+		},
+		{
+			"path": "../../../../../xampp1/htdocs/foos/images"
+		},
+		{
+			"path": "../../../../../xampp1/htdocs/foos/js"
+		},
+		{
+			"path": "../../../../../xampp1/htdocs/foos/project images"
+		},
+		{
+			"path": "../../../../../xampp1/htdocs/foos/uploaded_img"
+		}
+	]
+}
